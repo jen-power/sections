@@ -12,14 +12,13 @@ html {
 
 body {
   background-color: #eee9de;
-  margin: 0;
+  margin: 1.5em;
   vertical-align: middle;
 }
 
 section {
   display: block;
   text-align: center;
-  margin: 1.5em;
 }
 
 img {
@@ -27,7 +26,7 @@ img {
   width: 100%;
   max-width: 25em;
   padding-top: .5em;
-  padding-bottom: .75em;
+  padding-bottom: 0;
 }
 
 div {
@@ -35,7 +34,7 @@ div {
   text-align: left;
   vertical-align: top;
   padding-left: .5em;
-  margin: 1.5em;
+  margin-top: 1.5em;
 }
 
 p {
@@ -47,7 +46,9 @@ p {
 h2 {
   display: block;
   text-align: left;
-  margin: .01em;
+  margin: 0;
+  padding-top: .5em;
+  padding-bottom: .5em;
   color: #000;
 }
 
@@ -62,4 +63,5 @@ h2 {
   color: #333;
   text-decoration: none;
   text-align: left;
+  margin-top: .5em;
 }
