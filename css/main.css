@@ -11,7 +11,7 @@ html {
 
 body {
   background-color: #eee9de;
-  margin:
+  margin: 1.5em;
   vertical-align: middle;
 }
 
@@ -21,14 +21,15 @@ section {
 }
 
 img {
-  display: inline-block;
   width: 100%;
+  max-width: 25em;
 }
 
 div {
   display: inline-block;
   padding: .4em .75em .5em;
   text-align: left;
+  vertical-align: top;
 }
 
 p {
@@ -39,6 +40,7 @@ p {
 h2 {
   display: block;
   text-align: left;
+  margin: .01em;
 }
 
 .btn {
