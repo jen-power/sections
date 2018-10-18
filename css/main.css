@@ -25,6 +25,7 @@ img {
   display: block;
   width: 100%;
   max-width: 25em;
+  max-height: inherit;
   padding-top: .5em;
   padding-bottom: 0;
 }
