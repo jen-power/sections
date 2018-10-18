@@ -19,6 +19,7 @@ body {
 section {
   display: block;
   text-align: center;
+  margin: 1.5em;
 }
 
 img {
