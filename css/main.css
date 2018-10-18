@@ -9,9 +9,13 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-color: #eee9de;
+}
+
 section {
   display: block;
-  text-align: center;
+  vertical-align: middle;
 }
 
 img {
@@ -41,7 +45,11 @@ a {
   border-radius: 8px;
   padding: .7em;
   font-size: 1.1em;
-  color: #000;
+  color: #333;
   text-decoration: none;
   text-align: left;
+}
+
+a hover {
+  color: #333;
 }
