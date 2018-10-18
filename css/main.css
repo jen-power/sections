@@ -11,11 +11,13 @@ html {
 
 body {
   background-color: #eee9de;
+  margin:
+  vertical-align: middle;
 }
 
 section {
   display: block;
-  vertical-align: middle;
+  text-align: center;
 }
 
 img {
@@ -39,17 +41,15 @@ h2 {
   text-align: left;
 }
 
-a {
+button {
   display: inline-block;
   border: 2.5px solid #000;
+  background-color: #eee9de;
   border-radius: 8px;
   padding: .7em;
+  font-family: Lato, sans-serif;
   font-size: 1.1em;
   color: #333;
   text-decoration: none;
   text-align: left;
-}
-
-a hover {
-  color: #333;
 }
