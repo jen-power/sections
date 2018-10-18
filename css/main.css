@@ -24,13 +24,15 @@ img {
   display: inline-block;
   width: 100%;
   max-width: 25em;
+  padding-top: .5em;
+  padding-bottom: .75em;
 }
 
 div {
   display: inline-block;
-  padding: .4em .75em .5em;
   text-align: left;
   vertical-align: top;
+  padding-left: .5em;
 }
 
 p {
@@ -49,7 +51,7 @@ h2 {
   border: 2.5px solid #000;
   background-color: #eee9de;
   border-radius: 8px;
-  padding: .7em;
+  padding: .6em .8em;
   font-family: Lato, sans-serif;
   font-size: 1.1em;
   color: #333;
