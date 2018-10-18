@@ -41,7 +41,7 @@ h2 {
   text-align: left;
 }
 
-button {
+.btn {
   display: inline-block;
   border: 2.5px solid #000;
   background-color: #eee9de;
